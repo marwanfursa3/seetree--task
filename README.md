@@ -64,8 +64,10 @@ https://storage.googleapis.com/seetree-demo-open/FILE_NAME
 
 Before you begin You need to have:
 **1** Docker: The application tested with Docker Desktop for Windows 
+</br>
 **2** Python: The application tested with Python3
-**3** GIT: GITHUB
+</br>
+**3** GIT
 
 ## Starting application locally 
   Git all the files to a directory in your system.
